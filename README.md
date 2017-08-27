@@ -5,4 +5,5 @@ People can express their like.Only when two people both like each other, they ca
  2. Implement simple input, such as expandable inputs, empty states.
  3. People can tag by public like, private like and adding key words.
  4. Implement dashboard and activity feeds.
- 2. Using NLP to search people and implement forgiving formats.
+ 5. Implement recommender system by offline machine learning.
+ 6. Using NLP to search people and implement forgiving formats.
